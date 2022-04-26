@@ -25,7 +25,7 @@ Run a test script `python3 main.py --train True`
 
 
 
-<img src="data\fv0000.bmp" alt="fv0000" style="zoom:100%;" />       <img src="data\fv0010.bmp" alt="fv0010" style="zoom:100%;" />       <img src="data\fv0040.bmp" alt="fv0040" style="zoom:100%;" />        <img src="data\fv0140.bmp" alt="fv0140" style="zoom:100%;" />
+<img src="data\fv0000.bmp" alt="fv0000" style="zoom:100%;" />            <img src="data\fv0010.bmp" alt="fv0010" style="zoom:100%;" />            <img src="data\fv0040.bmp" alt="fv0040" style="zoom:100%;" />             <img src="data\fv0140.bmp" alt="fv0140" style="zoom:100%;" />
 
 
 
