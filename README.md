@@ -18,6 +18,7 @@ Run a test script `python3 main.py --train False`
 #### Training a Model
 
 We also provide the graph structure data of fingerprints and finger-veins for training `data/FP_200sp_train_c2.00.pkl` and `data\FV_200sp_train_c2.00.pkl`.
+
 Run a test script `python3 main.py --train True`
 
 #### Data samples
