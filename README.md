@@ -21,7 +21,7 @@ Run a test script `python3 main.py --train True`
 
 #### Data samples
 
-<img src="C:\Users\QU\Desktop\IET\project\CGCN\data\fp0000.bmp" alt="fp0000" style="zoom:80%;" /><img src="C:\Users\QU\Desktop\IET\project\CGCN\data\fp0040.bmp" alt="fp0040" style="zoom:80%;" /><img src="C:\Users\QU\Desktop\IET\project\CGCN\data\fp0080.bmp" alt="fp0080" style="zoom:80%;" /><img src="C:\Users\QU\Desktop\IET\project\CGCN\data\fp0130.bmp" alt="fp0130" style="zoom:80%;" />
+<img src="data/fp0000.bmp" alt="fp0000" style="zoom:80%;" /><img src="C:\Users\QU\Desktop\IET\project\CGCN\data\fp0040.bmp" alt="fp0040" style="zoom:80%;" /><img src="C:\Users\QU\Desktop\IET\project\CGCN\data\fp0080.bmp" alt="fp0080" style="zoom:80%;" /><img src="C:\Users\QU\Desktop\IET\project\CGCN\data\fp0130.bmp" alt="fp0130" style="zoom:80%;" />
 
 
 
